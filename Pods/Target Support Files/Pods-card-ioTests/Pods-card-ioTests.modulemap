@@ -1,0 +1,6 @@
+framework module Pods_card_ioTests {
+  umbrella header "Pods-card-ioTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
